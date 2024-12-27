@@ -6,6 +6,6 @@ Feel free to contact me if you are interested in working with me or would like t
 Email: kashishgarg9@gmail.com  
 For UPenn Related Inquiries reach here: kashg@seas.upenn.edu
 
-My website can be found here: kashishgarg.com
+My website can be found here: www.kashishgarg.com
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kashishkebab9)](https://git.io/streak-stats)
